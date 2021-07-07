@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShuffleCharacters", "ShuffleCharacters\ShuffleCharacters.csproj", "{5442389F-D1C2-4F54-A8E3-6353DBEC7579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShuffleCharacters.Tests", "ShuffleCharacters.Tests\ShuffleCharacters.Tests.csproj", "{B3F8FFE0-E960-4904-80DB-6A1DE97FF314}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5442389F-D1C2-4F54-A8E3-6353DBEC7579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5442389F-D1C2-4F54-A8E3-6353DBEC7579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5442389F-D1C2-4F54-A8E3-6353DBEC7579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5442389F-D1C2-4F54-A8E3-6353DBEC7579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3F8FFE0-E960-4904-80DB-6A1DE97FF314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F8FFE0-E960-4904-80DB-6A1DE97FF314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F8FFE0-E960-4904-80DB-6A1DE97FF314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F8FFE0-E960-4904-80DB-6A1DE97FF314}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
